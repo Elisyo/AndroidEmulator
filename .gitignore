@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+
+target/
+.classpath
+.idea/
+.project
+.settings/
