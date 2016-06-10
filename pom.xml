@@ -95,11 +95,11 @@
 	                <path>${env.ANDROID_SDK}</path>
 	                <platform>${android.platform}</platform>
 	              </sdk>
-	              <emulator>
+	              <!--<emulator>
 	              	<avd>16</avd>
 	              	<wait>10000</wait>
 	              	<options>-no-skin</options>
-	              </emulator>
+	              </emulator>-->
 	            </configuration>
           </plugin>
           <plugin>
