@@ -56,7 +56,7 @@
         </dependency>
 	</dependencies>
 
-	<distributionManagement>
+	<!--<distributionManagement>
        <snapshotRepository>
            <id>nextoo-snapshot</id>
            <url>
@@ -69,7 +69,7 @@
                http://nextoo-ci:8081/nexus/content/repositories/nextoo-releases/
            </url>
        </repository>
-   </distributionManagement>
+   </distributionManagement>-->
 
 	<build>
 		<finalName>${project.artifactId}</finalName>
