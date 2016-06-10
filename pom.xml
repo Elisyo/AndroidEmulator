@@ -100,6 +100,7 @@
 	              	<wait>10000</wait>
 	              	<options>-no-skin</options>
 	              </emulator>-->
+    				<extractDuplicates>false</extractDuplicates>
 	            </configuration>
           </plugin>
           <plugin>
